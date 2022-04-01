@@ -1,0 +1,18 @@
+body {
+  background: #ad5389;
+  background: linear-gradient(to right, #2c2132, #a05080);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  color: white;
+}
+
+.segment {
+  border-radius: 15px !important;
+  opacity: 0.84;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.522) !important;
+}
