@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sakshii-gautam/Image-Finder/static/css/main.00485be5.css",
-    "main.js": "/sakshii-gautam/Image-Finder/static/js/main.96b01a9e.js",
-    "index.html": "/sakshii-gautam/Image-Finder/index.html",
-    "main.00485be5.css.map": "/sakshii-gautam/Image-Finder/static/css/main.00485be5.css.map",
-    "main.96b01a9e.js.map": "/sakshii-gautam/Image-Finder/static/js/main.96b01a9e.js.map"
+    "main.css": "/Image-Finder/static/css/main.00485be5.css",
+    "main.js": "/Image-Finder/static/js/main.96b01a9e.js",
+    "index.html": "/Image-Finder/index.html",
+    "main.00485be5.css.map": "/Image-Finder/static/css/main.00485be5.css.map",
+    "main.96b01a9e.js.map": "/Image-Finder/static/js/main.96b01a9e.js.map"
   },
   "entrypoints": [
     "static/css/main.00485be5.css",
